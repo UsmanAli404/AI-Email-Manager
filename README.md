@@ -3,6 +3,9 @@
 This automation flow monitors incoming Gmail messages, uses AI to analyze their content and context, and assigns smart labels for improved organization and prioritization.
 
 ---
+## n8n Workflow:
+!(img)[Screenshot 2025-08-15 201950.png]
+---
 
 ## ⚙️ How It Works
 

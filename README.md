@@ -4,7 +4,8 @@ This automation flow monitors incoming Gmail messages, uses AI to analyze their 
 
 ---
 ## n8n Workflow:
-!(img)[Screenshot 2025-08-15 201950.png]
+![img](Screenshot%202025-08-15%20201950.png)
+
 ---
 
 ## ⚙️ How It Works
